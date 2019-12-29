@@ -1,6 +1,6 @@
 # BitzPrice
 
-> Sample Next.js app that shows the current Bitcoin value in USD, GBP and EUR. Basic now but will build upon in the near future.
+> Basic Next.js app that shows the current Bitcoin value in USD, GBP and EUR. Basic now but will build upon in the near future.
 
 ## Quick Start
 
