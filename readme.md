@@ -20,7 +20,7 @@ npm run build
 ### Author
 
 Timothy McManus
-[First Floor CReative](http://www.firstfloorcreative.com)
+[First Floor Creative](http://www.firstfloorcreative.com)
 
 ### Version
 
